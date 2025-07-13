@@ -351,9 +351,9 @@ namespace LibraryManagementSystem
             this.lblUserNumberAuto.Font = new System.Drawing.Font("Segoe UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUserNumberAuto.Location = new System.Drawing.Point(180, 40);
             this.lblUserNumberAuto.Name = "lblUserNumberAuto";
-            this.lblUserNumberAuto.Size = new System.Drawing.Size(258, 25);
+            this.lblUserNumberAuto.Size = new System.Drawing.Size(247, 25);
             this.lblUserNumberAuto.TabIndex = 1;
-            this.lblUserNumberAuto.Text = "AUTO-GENERATED: U00001";
+            this.lblUserNumberAuto.Text = "AUTO-GENERATED: U0001";
             // 
             // lblUserNumber
             // 
